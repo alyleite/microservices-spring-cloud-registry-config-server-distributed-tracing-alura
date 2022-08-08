@@ -50,11 +50,3 @@ hs_err_pid*
 
 # Node
 node_modules
-
-#prod
-application-prod.yml
-application-prod.properties
-application-homol.yml
-application-homol.properties
-/fintech-connect-service/docker/.docker/db-fintech/
-/fintech-stone-service/docker/.docker/db-fintech/
